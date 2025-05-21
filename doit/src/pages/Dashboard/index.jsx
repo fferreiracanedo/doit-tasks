@@ -82,7 +82,6 @@ const Dashboard = ({ authenticated }) => {
   return (
     <Container>
       <InputContainer onSubmit={handleSubmit(onSubmit)}>
-        <time>7 Maio de 2021</time>
         <section>
           <Input
             icon={FiEdit2}
